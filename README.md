@@ -19,17 +19,17 @@ from p2pp import p2pp
 
 words = ['go', 'give', 'be', 'lie', 'hit']
 for word in words:
-    print(p2pp(word))
+    print(f'{word} -> {p2pp(word)}')
 ```
 
 Output:
 
 ```
-going
-giving
-being
-lying
-hitting
+go -> going
+give -> giving
+be -> being
+lie -> lying
+hit -> hitting
 ```
 
 ## Requirements
