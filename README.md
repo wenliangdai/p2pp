@@ -4,7 +4,7 @@
 [![PyPI](https://img.shields.io/pypi/v/p2pp?style=for-the-badge)](https://pypi.org/project/p2pp/0.0.5/)
 [![PyPI - License](https://img.shields.io/pypi/l/p2pp?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-A light weight library that can help you to convert a word from present tense to present participle tense.
+A light weight library that can help you to convert a word from present tense to present participle tense, i.e. the "ing" form.
 
 ## Install
 
